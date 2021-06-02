@@ -4,7 +4,7 @@ from selenium import webdriver
 
 @given('I launch Chrome browser')
 def launchBrowser(context):
-    context.driver = webdriver.Firefox(executable_path='../resources/drivers/geckodriver')
+    context.driver = webdriver.Firefox(executable_path='./resources/drivers/geckodriver')
 
 
 @when('I go on google web site')
