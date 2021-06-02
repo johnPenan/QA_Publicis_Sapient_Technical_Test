@@ -110,3 +110,4 @@ fabric.properties
 # MacOS
 .DS_Store
 .idea/
+geckodriver.log
