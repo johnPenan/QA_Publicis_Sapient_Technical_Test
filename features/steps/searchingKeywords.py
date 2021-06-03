@@ -2,7 +2,7 @@ from behave import given, when, then
 from selenium import webdriver
 
 
-@given("I launch Chrome browser")
+@given("I launch firefox browser")
 def launchBrowser(context):
     context.driver = webdriver.Firefox(
         executable_path="./resources/drivers/geckodriver"
