@@ -1,6 +1,6 @@
 Feature: Keyword search
   Scenario: Searching for a keyword on google web site
-    Given I launch Chrome browser
+    Given I launch firefox browser
 	When I go on google web site
 	And I enter the keyword "Publicis Sapient" in the search bar
 	And I click on Google search button
