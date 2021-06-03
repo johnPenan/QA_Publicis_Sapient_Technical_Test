@@ -40,7 +40,7 @@ Once the console has been placed in the program features folder, simply run the 
 ```behave searchingKeywords.feature```
 
 ## Development done with:
-[VisualStudioCode](https://code.visualstudio.com/) - Text editor
+[PyCharm](https://www.jetbrains.com/fr-fr/pycharm/) - Text editor
 
 ## Improvement point
 This keyword search test can be organized in an object-oriented programming style.
