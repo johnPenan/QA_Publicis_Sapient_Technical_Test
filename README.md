@@ -37,7 +37,7 @@ For more details on setting up a virtual environment, see the Python documentati
 
 Once the console has been placed in the program features folder, simply run the following command in the virtual environment:
 
-``behave searchingKeywords.feature```
+```behave searchingKeywords.feature```
 
 ## Development done with:
 [VisualStudioCode](https://code.visualstudio.com/) - Text editor
@@ -48,4 +48,4 @@ This keyword search test can be organized in an object-oriented programming styl
 
 ## Author
 
-* **Jean Penan Goumou** [Github link](https://github.com/johnPenan/QA_Publicis_Sapient_Technical_Test.git) 
+* **Jean Penan Goumou** [Linkedin link](https://www.linkedin.com/in/jean-penan-goumou-78b265162/) 
